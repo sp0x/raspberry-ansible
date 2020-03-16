@@ -1,2 +1,2 @@
 [homecloud]
-raspberrypi.local ansible_connection=ssh  ansible_user=pi
+10.10.20.100 ansible_connection=ssh  ansible_user=pi
